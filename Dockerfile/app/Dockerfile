@@ -1,4 +1,4 @@
-FROM tomcat:latest
+FROM tomcat:8-jre11
 
 LABEL "Project"="vprofile"
 LABEL "Author"="saad"
